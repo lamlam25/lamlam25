@@ -39,8 +39,8 @@ To secure a **Software Engineering Internship** where I can apply my technical s
 
 ## Contact
 - **GitHub:** [lamlam25](https://github.com/lamlam25)
-- **LinkedIn:** *(add your LinkedIn URL)*
-- **Email:** *(add your professional email)*
+- **LinkedIn:** *()*
+- **Email:** *()*
 
 ---
 
