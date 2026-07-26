@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lamlam25/lamlam25/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/lamlam25/lamlam25/output/github-contribution-grid-snake-black.svg" alt="Snake animation eating my contribution graph" width="100%" />
 </p>
 
 ---
