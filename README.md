@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Sumaiya%20Islam%20Lamia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:2E9EF7,100:8E2DE2&height=230&section=header&text=Sumaiya%20Islam%20Lamia&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Launching%20ideas%20into%20code%20%F0%9F%9A%80%20Aspiring%20Software%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="180" alt="Astronaut floating in space" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lamia;Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Open+to+Internship+Opportunities;Always+debugging%2C+always+learning" alt="Typing SVG" />
 
@@ -77,7 +79,7 @@
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lamlam25&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lamlam25&theme=onedark&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies" />
 </div>
 
 <br/>
@@ -149,8 +151,8 @@ Expanding this section with production-style projects — clear problem statemen
 <div align="center">
 
 <a href="https://github.com/lamlam25"><img src="https://img.shields.io/badge/GitHub-lamlam25-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add%20your%20link-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-Add%20your%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sumaiyalamia25/"><img src="https://img.shields.io/badge/LinkedIn-sumaiyalamia25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lamia25.islam@gmail.com"><img src="https://img.shields.io/badge/Email-lamia25.islam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
