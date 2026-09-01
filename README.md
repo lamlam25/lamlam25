@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:2E9EF7,100:8E2DE2&height=230&section=header&text=Sumaiya%20Islam%20Lamia&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Launching%20ideas%20into%20code%20%F0%9F%9A%80%20Aspiring%20Software%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://media1.tenor.com/m/S33kSrIpd3sAAAAd/wow-astronaut.gif" width="220" alt="cartoon astronaut floating in space" />
 
-<span style="font-size:55px;">🌌&nbsp;&nbsp;✨&nbsp;&nbsp;🪐&nbsp;&nbsp;🚀&nbsp;&nbsp;👩‍🚀&nbsp;&nbsp;⭐&nbsp;&nbsp;🌠</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:2E9EF7,100:8E2DE2&height=200&section=header&text=%F0%9F%9A%80%20Sumaiya%20Islam%20Lamia%20%F0%9F%9A%80&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Launching%20ideas%20into%20code%20%E2%9C%A8%20Aspiring%20Software%20Engineer&descAlignY=62&descSize=17" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lamia;Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Open+to+Internship+Opportunities;Always+debugging%2C+always+learning" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="fun animation" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lamia;Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Open+to+Internship+Opportunities;Always+debugging%2C+always+learning" alt="Typing SVG" />
 
 <br/>
 
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to work" />
 
 </div>
+
 
 <br/>
 
