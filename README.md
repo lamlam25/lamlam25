@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:2E9EF7,100:8E2DE2&height=230&section=header&text=Sumaiya%20Islam%20Lamia&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Launching%20ideas%20into%20code%20%F0%9F%9A%80%20Aspiring%20Software%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="180" alt="Astronaut floating in space" />
+<span style="font-size:55px;">🌌&nbsp;&nbsp;✨&nbsp;&nbsp;🪐&nbsp;&nbsp;🚀&nbsp;&nbsp;👩‍🚀&nbsp;&nbsp;⭐&nbsp;&nbsp;🌠</span>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" alt="floating animation" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lamia;Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Open+to+Internship+Opportunities;Always+debugging%2C+always+learning" alt="Typing SVG" />
 
@@ -80,6 +82,20 @@
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=lamlam25&theme=onedark&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies" />
+</div>
+
+<br/>
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/lamlam25?tab=achievements"><img src="https://img.shields.io/badge/View%20My-Achievements-8E2DE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" /></a>
+
+<br/><br/>
+
+<sub>Badges like <b>Pull Shark</b>, <b>Quickdraw</b>, and <b>Galaxy Brain</b> unlock automatically from real activity (merged PRs, fast issue closes, accepted discussion answers) — GitHub shows them on your profile itself once earned, so there's nothing to fake here. Click above to see yours live. 🚀</sub>
+
 </div>
 
 <br/>
