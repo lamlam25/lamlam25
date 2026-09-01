@@ -4,7 +4,7 @@
 
 <span style="font-size:55px;">🌌&nbsp;&nbsp;✨&nbsp;&nbsp;🪐&nbsp;&nbsp;🚀&nbsp;&nbsp;👩‍🚀&nbsp;&nbsp;⭐&nbsp;&nbsp;🌠</span>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" alt="floating animation" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="fun animation" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lamia;Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Open+to+Internship+Opportunities;Always+debugging%2C+always+learning" alt="Typing SVG" />
 
