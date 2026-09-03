@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/S33kSrIpd3sAAAAd/wow-astronaut.gif" width="220" alt="cartoon astronaut floating in space" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="Mario animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:2E9EF7,100:8E2DE2&height=200&section=header&text=%F0%9F%9A%80%20Sumaiya%20Islam%20Lamia%20%F0%9F%9A%80&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Launching%20ideas%20into%20code%20%E2%9C%A8%20Aspiring%20Software%20Engineer&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Space coding animation" />
+
+<h1>🚀 Sumaiya Islam Lamia 🚀</h1>
+<h3>Launching ideas into code ✨ Aspiring Software Engineer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lamia;Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Open+to+Internship+Opportunities;Always+debugging%2C+always+learning" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="fun animation" />
 
 <br/>
 
@@ -156,7 +157,7 @@ Expanding this section with production-style projects — clear problem statemen
 <div align="center">
 
 ![Internship](https://img.shields.io/badge/💼_Software_Engineering-Internship-2E9EF7?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/👩‍💻_Student-Collaborations-8E2DE2?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/👩💻_Student-Collaborations-8E2DE2?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/🌱_Open--Source-Beginner_Friendly-brightgreen?style=for-the-badge)
 
 </div>
