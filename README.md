@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" alt="Mario animation" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Mario animation" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Space coding animation" />
 
@@ -59,6 +59,20 @@
 | **Core CS** | Data Structures · Algorithms · OOP |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
+</div>
+
+<br/>
+
+## 📊 Profile Summary
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamlam25&theme=tokyonight" alt="Profile Details" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lamlam25&theme=tokyonight" alt="Repos Per Language" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lamlam25&theme=tokyonight" alt="Most Commit Language" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamlam25&theme=tokyonight&utcOffset=6" alt="Productive Time" height="180"/>
 </div>
 
 <br/>
@@ -174,7 +188,7 @@ Expanding this section with production-style projects — clear problem statemen
 
 <br/><br/>
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="550"/>
 
 <br/>
 
